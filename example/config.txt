@@ -1,0 +1,2 @@
+Prefix plugins/ChimeraRemove/example/
+Plugin ChimeraRemove inputfile merger1.rds outputfile nochimeras
